@@ -1,1 +1,2 @@
 # resolution_of_linear_algebra_project
+这是我对优达学城深度学习第一学期线性代数项目的解答
